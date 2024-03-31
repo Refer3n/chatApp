@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Refer3n/chatApp/static/css/main.df801cf0.css",
+    "main.js": "/Refer3n/chatApp/static/js/main.ee0ba8be.js",
+    "index.html": "/Refer3n/chatApp/index.html",
+    "main.df801cf0.css.map": "/Refer3n/chatApp/static/css/main.df801cf0.css.map",
+    "main.ee0ba8be.js.map": "/Refer3n/chatApp/static/js/main.ee0ba8be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df801cf0.css",
+    "static/js/main.ee0ba8be.js"
+  ]
+}
